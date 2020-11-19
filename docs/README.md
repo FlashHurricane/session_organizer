@@ -18,6 +18,11 @@ TODO
 <img src="img/database_uml.png" alt="database_uml" width="661">
 </h2>
 
+## Végpontok
+<h2 align="center">
+<img src="img/Session Organizer Endpoint Diagram.png" alt="Session Organizer Endpoint Diagram" width="661">
+</h2>
+
 ## Szerepkörök
 
 * vendég:
